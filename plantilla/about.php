@@ -37,7 +37,7 @@
                 <div class="col-lg-2">
                     <div class="header__logo">
                         <a href="./index.php">
-                            <h2>Logo en proceso</h2>
+                            <h2>Logo en procesu</h2>
                         </a>
                     </div>
                 </div>
